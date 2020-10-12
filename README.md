@@ -27,3 +27,18 @@ Http http = new Http();
 HTTPResponse res = http.send(req);
 System.debug(res.getBody());
 ```
+
+# Complete registration process with https://www.twilio.com/try-twilio
+# Verify Email and mobile number
+# Create Sandbox environment https://www.twilio.com/console/sms/whatsapp/learn
+
+Connect your whatsapp to sandbox
+Image 
+
+Once you send the message, you will link your WhatsApp number to sandbox environment.
+Image
+
+
+
+
+
