@@ -1,5 +1,6 @@
 # Integrate-Salesforce-with-Whatsapp
 
+![IMAGE OF SEND WHATSAPP MESSAGE UI](https://github.com/Rakesh1Singh/Integrate-Salesforce-with-Whatsapp/blob/main/UI%20send%20wahtsapp%20message.JPG)
 
 ```javascript
   <template>
