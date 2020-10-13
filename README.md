@@ -60,7 +60,7 @@ export default class SendMessageToWhatsapp extends LightningElement {
         const evt = new ShowToastEvent({
             title: this._title,
             message: this._message,
-            variant: this.variant,
+            variant: this._variant,
         });
         this.dispatchEvent(evt);
     }
