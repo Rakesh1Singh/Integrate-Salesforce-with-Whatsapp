@@ -2,6 +2,9 @@
 
 ![IMAGE OF SEND WHATSAPP MESSAGE UI](https://github.com/Rakesh1Singh/Integrate-Salesforce-with-Whatsapp/blob/main/UI%20send%20wahtsapp%20message.JPG)
 
+![IMAGE OF SANDBOX WHATSAPP CONFIRMATION](https://github.com/Rakesh1Singh/Integrate-Salesforce-with-Whatsapp/blob/main/linked%20sandbox%20whatsapp%20confirmation.JPG)
+
+
 ```javascript
   <template>
     <div style="margin-left: 35%;
